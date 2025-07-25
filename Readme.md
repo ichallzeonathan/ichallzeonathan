@@ -1,5 +1,13 @@
+---
 
-# Hi there, I'm Ichall Zeonathan 👋
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00fff7&width=390&lines=Hi+there,+I'm+Ichall+Zeonathan+%F0%9F%91%8B" 
+    alt="Typing SVG Title" 
+  />
+</p>
+
+---
 
 <p align="center">
   <img
@@ -18,6 +26,15 @@
   />
 </p>
 
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Welcome+to+My+GitHub+Profile!;I+am+ichallzeonathan;A+Passionate+Developer+and+Open+Source+Enthusiast!" 
+    alt="Typing SVG" 
+  />
+  
+</p>
+
+---
 ## About Me
 I am a beginner to become a developer.  
 Passionate about learning new technologies and building cool projects.  
@@ -40,6 +57,14 @@ Passionate about learning new technologies and building cool projects.
 ![Ichall's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ichallzeonathan&show_icons=true&theme=radical)
 
 ![Ichall's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ichallzeonathan&layout=compact&theme=radical)
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ichallzeonathan&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ichallzeonathan&theme=radical&margin-w=15" alt="GitHub Trophies" />
+</p>
 
 ---
 
