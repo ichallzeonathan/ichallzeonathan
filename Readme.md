@@ -1,7 +1,22 @@
 
 # Hi there, I'm Ichall Zeonathan 👋
 
-![Profile Banner](https://avatars.githubusercontent.com/ichallzeonathan)
+<p align="center">
+  <img
+    src="https://github.com/ichallzeonathan.png"
+    alt="Avatar GitHub ichallzeonathan"
+    width="160"
+    style="
+      border: 5px solid #826aed;
+      border-radius: 50%;
+      padding: 5px;
+      box-shadow: 0 0 15px #826aed;
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+    "
+  />
+</p>
 
 ## About Me
 I am a beginner to become a developer.  
