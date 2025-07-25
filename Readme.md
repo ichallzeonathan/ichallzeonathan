@@ -46,7 +46,8 @@ Passionate about learning new technologies and building cool projects.
 
 ## 🤝 Let's Connect
 [![GitHub followers](https://img.shields.io/github/followers/ichallzeonathan?label=Follow&style=social)](https://github.com/ichallzeonathan)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://linkedin.com/in/ichallzeonathan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/ichall-zeonathan)
+
 [![Email](https://img.shields.io/badge/Email-ichallzeonathan@gmail.com-red)](mailto:ichallzeonathan@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-085219341964-green?logo=whatsapp&logoColor=white)](https://wa.me/6285219341964)
 
