@@ -83,7 +83,7 @@ Passionate about learning new technologies and building cool projects.
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/ichallzeonathan/ichallzeonathan/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/ichallzeonathan/ichallzeonathan/output/snake.svg" alt="Snake animation" />
 </p>
 
 ---
