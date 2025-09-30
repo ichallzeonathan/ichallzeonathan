@@ -41,14 +41,32 @@ Passionate about learning new technologies and building cool projects.
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Skills  
 
-| Skill       | Progress                                                                 |
-|-------------|--------------------------------------------------------------------------|
-| HTML        | ![HTML](https://img.shields.io/badge/HTML-70%25-brightgreen)            |
-| CSS         | ![CSS](https://img.shields.io/badge/CSS-60%25-blue)                     |
-| JavaScript  | ![JavaScript](https://img.shields.io/badge/JavaScript-50%25-yellow)     |
-| React       | ![React](https://img.shields.io/badge/React-40%25-61dafb)               |
+<p align="center">
+  <table>
+    <tr>
+      <th>Skill</th>
+      <th>Progress</th>
+    </tr>
+    <tr>
+      <td><b>HTML</b></td>
+      <td><img src="https://img.shields.io/badge/HTML-70%25-brightgreen" width="150"/></td>
+    </tr>
+    <tr>
+      <td><b>CSS</b></td>
+      <td><img src="https://img.shields.io/badge/CSS-60%25-blue" width="150"/></td>
+    </tr>
+    <tr>
+      <td><b>JavaScript</b></td>
+      <td><img src="https://img.shields.io/badge/JavaScript-50%25-yellow" width="150"/></td>
+    </tr>
+    <tr>
+      <td><b>React</b></td>
+      <td><img src="https://img.shields.io/badge/React-40%25-61dafb" width="150"/></td>
+    </tr>
+  </table>
+</p>
 
 ---
 
