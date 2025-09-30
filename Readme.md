@@ -54,9 +54,13 @@ Passionate about learning new technologies and building cool projects.
 
 ## 🔥 GitHub Stats
 
-![Ichall's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ichallzeonathan&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ichallzeonathan&show_icons=true&theme=radical" alt="Ichall's GitHub Stats" />
+</p>
 
-![Ichall's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ichallzeonathan&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ichallzeonathan&layout=compact&theme=radical" alt="Ichall's Top Languages" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ichallzeonathan&theme=radical" alt="GitHub Streak" />
@@ -64,6 +68,30 @@ Passionate about learning new technologies and building cool projects.
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ichallzeonathan&theme=radical&margin-w=15" alt="GitHub Trophies" />
+</p>
+
+---
+
+## 📊 Aktivitas
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ichallzeonathan&theme=radical" alt="GitHub Activity Graph" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/ichallzeonathan/ichallzeonathan/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+---
+
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ichallzeonathan&color=red&style=flat-square" alt="Profile views" />
 </p>
 
 ---
