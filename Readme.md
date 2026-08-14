@@ -1,135 +1,331 @@
----
+<div align="center">
 
-<p align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00fff7&width=390&lines=Hi+there,+I'm+Ichall+Zeonathan+%F0%9F%91%8B" 
-    alt="Typing SVG Title" 
-  />
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=2500&pause=800&color=00FFF7&center=true&vCenter=true&width=700&lines=ICHALL+ZEONATHAN;Developer+%26+Tech+Enthusiast;Building+Things+That+Actually+Work+%F0%9F%9A%80" />
 
----
+<br><br>
 
-<p align="center">
-  <img
-    src="https://github.com/ichallzeonathan.png"
-    alt="Avatar GitHub ichallzeonathan"
-    width="160"
-    style="
-      border: 5px solid #826aed;
-      border-radius: 50%;
-      padding: 5px;
-      box-shadow: 0 0 15px #826aed;
-      display: block;
-      margin-left: auto;
-      margin-right: auto;
-    "
-  />
-</p>
+<img src="https://github.com/ichallzeonathan.png" width="170" style="border-radius:50%" />
 
-<p align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Welcome+to+My+GitHub+Profile!;I+am+ichallzeonathan;A+Passionate+Developer+and+Open+Source+Enthusiast!" 
-    alt="Typing SVG" 
-  />
-  
-</p>
+<br><br>
 
----
-## About Me
-I am a beginner to become a developer.  
-Passionate about learning new technologies and building cool projects.  
+<a href="https://ichallzeonathan.netlify.app">
+<img src="https://img.shields.io/badge/🌐%20Website-826AED?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<a href="https://github.com/ichallzeonathan">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/ichall-zeonathan">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:ichallzeonathan@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=ichallzeonathan&style=for-the-badge&color=826AED&label=PROFILE+VIEWS"/>
+
+</div>
 
 ---
 
-<p align="center">
-  <a href="https://ichallzeonathan.netlify.app/">
-    <img src="https://img.shields.io/badge/My%20Website-Visit%20Now-826aed?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-  </a>
-</p>
+## 👨‍💻 About Me
 
-## 🛠️ Skills  
+<table>
+<tr>
+<td width="55%" valign="top">
 
-<p align="center">
-  <table>
-    <tr>
-      <th>Skill</th>
-      <th>Progress</th>
-    </tr>
-    <tr>
-      <td><b>HTML</b></td>
-      <td><img src="https://img.shields.io/badge/HTML-70%25-brightgreen" width="150"/></td>
-    </tr>
-    <tr>
-      <td><b>CSS</b></td>
-      <td><img src="https://img.shields.io/badge/CSS-60%25-blue" width="150"/></td>
-    </tr>
-    <tr>
-      <td><b>JavaScript</b></td>
-      <td><img src="https://img.shields.io/badge/JavaScript-50%25-yellow" width="150"/></td>
-    </tr>
-    <tr>
-      <td><b>React</b></td>
-      <td><img src="https://img.shields.io/badge/React-40%25-61dafb" width="150"/></td>
-    </tr>
-  </table>
-</p>
+### Hi, I'm Ichall 👋
 
----
+I'm a beginner developer passionate about technology, programming, automation, and building things from scratch.
 
-## 🔥 GitHub Stats
+I enjoy taking an idea, turning it into code, breaking it several times, figuring out why it broke, and eventually making it work.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ichallzeonathan&show_icons=true&theme=radical" alt="Ichall's GitHub Stats" />
-</p>
+Currently exploring the world of modern web development while experimenting with APIs, automation, bots, and open-source projects.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ichallzeonathan&layout=compact&theme=radical" alt="Ichall's Top Languages" />
-</p>
+<br>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ichallzeonathan&theme=radical" alt="GitHub Streak" />
-</p>
+**⚡ Current mindset**
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ichallzeonathan&theme=radical&margin-w=15" alt="GitHub Trophies" />
-</p>
+> `Learn → Build → Break → Fix → Improve`
 
----
+</td>
 
-## 📊 Aktivitas
+<td width="45%" valign="top">
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ichallzeonathan&theme=radical" alt="GitHub Activity Graph" />
-</p>
+```yaml
+name: Ichall Zeonathan
+role: Developer
+
+focus:
+  - Web Development
+  - JavaScript
+  - Automation
+  - APIs
+  - Open Source
+
+learning:
+  - React
+  - Node.js
+  - Modern JavaScript
+
+environment:
+  - Windows
+  - Linux
+  - Git
+
+status: "Learning 🚀"
+```
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🐍 Contribution Snake
+# ⚡ Tech Stack
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ichallzeonathan/ichallzeonathan/output/snake.svg" alt="Snake animation" />
-</p>
+<div align="center">
 
----
+### Languages & Frameworks
 
-## 👀 Profile Views
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ichallzeonathan&color=red&style=flat-square" alt="Profile views" />
-</p>
+<br><br>
 
----
+### Tools
 
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,windows,discord" />
 
-## 🤝 Let's Connect
-[![GitHub followers](https://img.shields.io/github/followers/ichallzeonathan?label=Follow&style=social)](https://github.com/ichallzeonathan)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/ichall-zeonathan)
-
-[![Email](https://img.shields.io/badge/Email-ichallzeonathan@gmail.com-red)](mailto:ichallzeonathan@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-085219341964-green?logo=whatsapp&logoColor=white)](https://wa.me/6285219341964)
-
+</div>
 
 ---
 
-*This README profile is powered by GitHub and customized by Ichall Zeonathan.*
+# 📊 GitHub Analytics
 
+<div align="center">
+
+<a href="https://github.com/ichallzeonathan">
+<img height="180"
+src="https://github-readme-stats.vercel.app/api?username=ichallzeonathan&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&border_radius=12&bg_color=0D1117&title_color=00FFF7&text_color=C9D1D9&icon_color=826AED&ring_color=826AED"/>
+</a>
+
+<a href="https://github.com/ichallzeonathan">
+<img height="180"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=ichallzeonathan&layout=donut&langs_count=6&hide_border=true&border_radius=12&bg_color=0D1117&title_color=00FFF7&text_color=C9D1D9"/>
+</a>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img
+src="https://streak-stats.demolab.com/?user=ichallzeonathan&theme=dark&hide_border=true&border_radius=12&background=0D1117&ring=826AED&fire=00FFF7&currStreakLabel=00FFF7&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF"
+width="70%"
+/>
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=ichallzeonathan&bg_color=0D1117&color=00FFF7&line=826AED&point=FFFFFF&area_color=826AED&area=true&hide_border=true&radius=12"
+width="95%"
+/>
+
+</div>
+
+---
+
+# 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/ichallzeonathan/lastwar-server-time">
+<img
+src="https://github-readme-stats.vercel.app/api/pin/?username=ichallzeonathan&repo=lastwar-server-time&theme=dark&hide_border=true&border_radius=12&bg_color=0D1117&title_color=00FFF7&text_color=C9D1D9&icon_color=826AED"
+/>
+</a>
+
+</div>
+
+<br>
+
+<table align="center">
+<tr>
+
+<td width="33%" align="center">
+
+### 🌐 Web Projects
+
+Building websites and web tools while learning modern frontend technologies.
+
+</td>
+
+<td width="33%" align="center">
+
+### 🤖 Automation
+
+Bots, scripts, APIs, and automation projects designed to eliminate repetitive work.
+
+</td>
+
+<td width="33%" align="center">
+
+### 🧪 Experiments
+
+Small experiments where new technologies become actual working projects.
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img
+src="https://raw.githubusercontent.com/ichallzeonathan/ichallzeonathan/output/snake.svg"
+alt="GitHub Contribution Snake"
+/>
+
+</div>
+
+---
+
+# 🧠 Developer Journey
+
+<div align="center">
+
+```text
+                     ┌─────────────────┐
+                     │      IDEA       │
+                     └────────┬────────┘
+                              │
+                              ▼
+                     ┌─────────────────┐
+                     │      CODE       │
+                     └────────┬────────┘
+                              │
+                              ▼
+                     ┌─────────────────┐
+                     │   💥 IT BREAKS  │
+                     └────────┬────────┘
+                              │
+                              ▼
+                     ┌─────────────────┐
+                     │      DEBUG      │
+                     └────────┬────────┘
+                              │
+                              ▼
+                     ┌─────────────────┐
+                     │     LEARN       │
+                     └────────┬────────┘
+                              │
+                              ▼
+                     ┌─────────────────┐
+                     │     IMPROVE     │
+                     └────────┬────────┘
+                              │
+                              └───────► 🔁
+```
+
+</div>
+
+---
+
+# 🌌 Current Focus
+
+<table align="center">
+<tr>
+<td align="center" width="25%">
+
+### 🌐
+
+**Web**
+
+Modern websites & UI
+
+</td>
+
+<td align="center" width="25%">
+
+### ⚡
+
+**JavaScript**
+
+Logic & automation
+
+</td>
+
+<td align="center" width="25%">
+
+### ⚛️
+
+**React**
+
+Modern frontend
+
+</td>
+
+<td align="center" width="25%">
+
+### 🤖
+
+**Automation**
+
+Bots & APIs
+
+</td>
+</tr>
+</table>
+
+---
+
+# 📡 Connect
+
+<div align="center">
+
+<a href="https://ichallzeonathan.netlify.app">
+<img src="https://img.shields.io/badge/🌐%20Website-826AED?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/ichallzeonathan">
+<img src="https://img.shields.io/badge/💻%20GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/ichall-zeonathan">
+<img src="https://img.shields.io/badge/💼%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:ichallzeonathan@gmail.com">
+<img src="https://img.shields.io/badge/✉️%20Email-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+<br><br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&pause=1800&color=826AED&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile+%F0%9F%91%8B;Keep+building.+Keep+learning.+Keep+shipping.+%F0%9F%9A%80"/>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=ichallzeonathan&style=flat-square&color=826AED"/>
+
+<br>
+
+<sub>Built with curiosity, code & ☕</sub>
+
+</div>
